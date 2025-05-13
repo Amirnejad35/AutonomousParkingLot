@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+
+# macOS
+.DS_Store
+
+# C++ compiled files
+*.o
+*.out
+*.exe
+*.obj
+
+# Arduino / PlatformIO build artifacts
+.build/
+*.bin
+
+# IDE/editor junk
+.vscode/
+.idea/
+*.log
